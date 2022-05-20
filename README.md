@@ -52,7 +52,7 @@ Dados los datos obtenidos podemos llenar la tabla adjunta en el archivo guia de 
 
 ## Verificación de la LCK.
 
-[![Calculo-del-nodo.png](https://i.postimg.cc/7Pg6zRFM/Calculo-del-nodo.png)](https://postimg.cc/t74pQBCY)
+[![Calculo-del-nodo.png](https://i.postimg.cc/s2DvyRby/Calculo-del-nodo.png)](https://postimg.cc/zy6JS4JP)
 
 Dado que las tablas ya fueron llenadas se adjunta los calculos de dichas tablas.
 
