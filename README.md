@@ -51,7 +51,6 @@ Dados los datos obtenidos podemos llenar la tabla adjunta en el archivo guia de 
 [![voltaje-en-cada-trayectoria.png](https://i.postimg.cc/Jz3WnwvS/voltaje-en-cada-trayectoria.png)](https://postimg.cc/bZv5C5zR)
 
 ## Verificación de la LCK.
-Dentro de la verificacion nunca tuvimos una clase de respaldo de como se calcula cada uno de los nodos.
 
 [![Calculo-del-nodo.png](https://i.postimg.cc/7Pg6zRFM/Calculo-del-nodo.png)](https://postimg.cc/t74pQBCY)
 
@@ -69,6 +68,8 @@ En cada Imagen adjuntada se puede ver como se va calculando la resistencia paral
 - Para el calculo del error se vio en las tablas y dentro de los calculos que en la trayectoria 1 y 3 no tuvimos error pero dentro de la segunda trayectoria pudimos observar que en el voltaje total tuvimos un porcentaje de error casi el 15% 
 
 5. VIDEO
+
+https://www.youtube.com/watch?v=ceqgwo7U285
 
 6. CONCLUSIONES
 - En conclusión se refuerza la preservación de la energía y la carga de los circuitos eléctricos.
